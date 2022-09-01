@@ -1,5 +1,5 @@
 ### Olá eu sou a Jamili Viana 👋😄
-<br/>
+
 ### Estou iniciando meus estudo na programação voltada para Back-end, e atualmente trabalho como aprendiz na área!
 
 ## Conecte comigo:
