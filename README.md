@@ -2,7 +2,6 @@
 <h3 align="center">A backend developer from Brazil</h3>
 
 - 👩🏻‍💻 I am a back-end developer and a bachelor's student in information technology.
-- 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me [jamilimartucheliviana@gmail.com](mailto:jamilimartucheliviana@gmail.com)      
 
 ## Connect with me:  
